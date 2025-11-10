@@ -15,10 +15,7 @@ site_privacy: "**隱私：**本網站並不使用 Cookie，也不作使用者追
 site_copyright: "**版權：**無。此著作乃標記為"
 --- 
 
-2025 年八月，Google [宣佈](https://developer.android.com/developer-verification)由明年開始，
-將不再可能開發應用程式以供 Android 平臺上使用，
-除非先與 Google 集中註冊。
-此註冊將涉及：
+2025 年八月，Google [宣佈](https://developer.android.com/developer-verification)由明年開始，將不再可能開發應用程式以供 Android 平臺上使用，除非先與 Google 集中註冊。此註冊將涉及：
 
 - 向 Google 繳付費用
 {:.li-list .li-money}
@@ -37,7 +34,7 @@ site_copyright: "**版權：**無。此著作乃標記為"
 
 ➤ 汝，曰**創作者**，不再能夠開發某一應用程式並直接與您的親朋好友和社群分享，除非先徵得 Google 的核准。Android 的承諾⸺亦是其一直用來標榜與 iPhone 截然不同的一個行銷優勢⸺一直以來都是說它是「開放」的。然而 Google 明顯自認為他們在 Android 生態系統上不可多得鑄成一把枷鎖，又足以結成一定監管友好挾為俘虜，現有能耐憑一己偏隅之見剛愎自用、仗一面免死金牌橫行無忌，揮破此道原則棄若敝屣。
 
-➤ 汝，曰**國度**，正在割讓您一眾市民的權利和您自身的數位主權予一家公司，觀其往績乃遵循威權政權的法外要求移除完全合法惟不合乎心意的應用程式。對您的商業與政府之運作尤為關鍵的軟體，將聽任一家山高水遠、無從歸責的企業陰晴不定、風雲詭譎的發落。
+➤ 汝，曰**國度**，正在割讓您一眾市民的權利和您自身的數位主權予一家公司，觀其往績乃遵循威權政權的法外要求移除完全合法惟不合乎心意的應用程式。對您一眾商業與政府之運作尤為關鍵的軟體，將聽任一家山高水遠、無從歸責的企業陰晴不定、風雲詭譎的發落。
 
 ## 您可如何出一分力
 
@@ -95,7 +92,7 @@ site_copyright: "**版權：**無。此著作乃標記為"
 #### 澳洲
 
 - 電子郵件：[international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)
-- 與[澳大利亞競爭暨消費者委員會 (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)開立報告
+- 與[澳大利亞競爭暨消費者委員會 (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue) 開立報告
 - 傳送請求至澳洲的澳大利亞消費者協會 ([CHOICE](https://accounts.choice.com.au/contact-us/))。請求其向澳大利亞競爭暨消費者委員會 (ACCC) 提出一則指定投訴。
 
 #### 日本
@@ -148,7 +145,7 @@ site_copyright: "**版權：**無。此著作乃標記為"
 
 —— _唯有開發者默許順從，他們統佔天下的計謀才得以得逞。_ ——
 
-勸諌應用程式開發者與組織同儕，不要註冊該計劃。善用社群討論區、社群媒體與部落格帖文，將此訊息傳開去。在您的程式碼中包含 [FreeDroidWarn 程式庫](https://github.com/woheller69/FreeDroidWarn)，藉以告知您的應用程式使用者。
+勸諫應用程式開發者與組織同儕，不要註冊該計劃。善用社群討論區、社群媒體與部落格帖文，將此訊息傳開去。在您的程式碼中包含 [FreeDroidWarn 程式庫](https://github.com/woheller69/FreeDroidWarn)，藉以告知您的應用程式使用者。
 
 ### 齊集氣：集結您的聲音，呼聲響徹雲霄
 
@@ -207,7 +204,7 @@ site_copyright: "**版權：**無。此著作乃標記為"
 
 - 《應用程式把關：通向網際網路審查無限上綱、無窮延展之路》 — [https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship)
 - 《言側載時，孰與執言》 — [https://f-droid.org/2025/10/28/sideloading.html](https://f-droid.org/2025/10/28/sideloading.html) ([Hacker News 迴響](https://news.ycombinator.com/item?id=45736479))
-- 《F-Droid 與 Google 之開發者註冊令》 — [https://f-droid.org/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/2025/09/29/google-developer-registration-decree.html) ([Hacker News 迴響](https://news.ycombinator.com/item?id=45409794))
+- 《F-Droid 與 Google 頒佈之開發者註冊令》 — [https://f-droid.org/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/2025/09/29/google-developer-registration-decree.html) ([Hacker News 迴響](https://news.ycombinator.com/item?id=45409794))
 - 《Pluralistic 多元大戰：黑武士達斯·安卓》 — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
 - 《Google 計劃效法 Apple 封鎖側載，向 Android 自由宣戰》 — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
 - 《保持 Android 自由、開放》 - [https://www.swechaap.org/blog/keep-android-free-and-open/](https://www.swechaap.org/blog/keep-android-free-and-open)
@@ -226,7 +223,7 @@ site_copyright: "**版權：**無。此著作乃標記為"
 - 《Google 新的身份驗證要求恐摧毀獨立應用程式商店》 — [https://www.techspot.com/news/109728-google-confirms-new-android-rules-significantly-restrict-app.html](https://www.techspot.com/news/109728-google-confirms-new-android-rules-significantly-restrict-app.html)
 - 《Google 要求所有 Android 開發者註冊並驗證威脅關閉開放原始碼應用程式商店 F-Droid》 — [https://www.techdirt.com/2025/10/07/googles-requirement-for-all-android-developers-to-register-and-be-verified-threatens-to-close-down-open-source-app-store-f-droid/](https://www.techdirt.com/2025/10/07/googles-requirement-for-all-android-developers-to-register-and-be-verified-threatens-to-close-down-open-source-app-store-f-droid/)
 - 《Google 新的開發者規則足以威脅側載與 F-Droid 之前途》 — [https://www.gizmochina.com/2025/09/30/googles-new-developer-rules-could-threaten-sideloading-and-f-droids-future/](https://www.gizmochina.com/2025/09/30/googles-new-developer-rules-could-threaten-sideloading-and-f-droids-future/)
-- 《Google 著手限制 Android 至為重要的功能之一，使用者義憤填膺》 — [https://www.slashgear.com/1962802/google-restricting-important-android-feature-reason-why-users-outraged/](https://www.slashgear.com/1962802/google-restricting-important-android-feature-reason-why-users-outraged/)
+- 《Google 著手限制 Android 至為重要的特色功能之一，使用者義憤填膺》 — [https://www.slashgear.com/1962802/google-restricting-important-android-feature-reason-why-users-outraged/](https://www.slashgear.com/1962802/google-restricting-important-android-feature-reason-why-users-outraged/)
 - 《Android 的側載限制乃前所未有、有損消費者極至之舉》 - [https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
 - 《Google 的開發者註冊計劃「將終結 F-Droid 專案」》 — [https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/](https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/)
 - 《F-Droid 指 Google 新的側載限制將置其專案於死地》 — [https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/](https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/)
