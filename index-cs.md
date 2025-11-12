@@ -92,16 +92,16 @@ Stížnosti jsou zvláště efektivní, když pochází od občanů dané země 
 - Kontaktujte [KPPU for Competition Complaints](https://eng.kppu.go.id)
 - _Poznámka: Indonésie je jednou ze [4 prvních zemí](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/), kde bude registrace vývojářů zavedena_
 
-#### Switzerland
+#### Švýcarsko
 
-- File a report with the [Competition Commission](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)
+- Podejte oznámení u [Komise pro hospodářskou soutěž](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)
 
 #### Austrálie
 
 - Email: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)
 - Pošlete oznámení na [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)
 - Pošlete žádost Australskému sdružení spotřebitelů ([CHOICE](https://accounts.choice.com.au/contact-us/)). Požádejte je, aby podali stížnost Australské komisi pro soutěž a spotřebitele (Australian Competition & Consumer Comission, ACCC).
-- Kontaktujte svého místního poslance nebo senátora státu. Pokud neznáte své volební obvod, můžete jej najít [zde](https://electorate.aec.gov.au/) a své poslance nebo senátory vyhledat [zde](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results).
+- Kontaktujte svého místního poslance nebo senátora státu. Pokud neznáte svůj volební obvod, můžete jej najít [zde](https://electorate.aec.gov.au/) a své poslance nebo senátory můžete najít [zde](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results).
 
 #### Japonsko
 
