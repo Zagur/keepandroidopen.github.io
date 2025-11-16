@@ -11,7 +11,7 @@ contact_email: "电子邮件"
 site_problems_header: "问题"
 site_report_issues: "报告网站问题"
 site_disclaimer: "**免责声明:**本网站是一个由社区推动的非商业性项目。仅用于提供信息与教育目的。"
-site_privacy: "**隐私:**本站并不使用cookies，以及用户跟踪或记录"
+site_privacy: "**隐私:**本站不使用cookies，以及用户跟踪或记录"
 site_copyright: "**版权:** 无。本著作已标记"
 ---
 
