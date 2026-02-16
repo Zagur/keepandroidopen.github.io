@@ -28,7 +28,7 @@ The site should run locally and be browsable at [http://localhost:4321/](http://
 
 To provide a translation into a new language like Italian (language code: "it"):
 
-1. [Edit `astro.config.mjs`](https://github.com/keepandroidopen/keepandroidopen.github.io/edit/main/astro.config.mjs) in a fork and update the language menu at the end with the new language code.
+1. [Edit `src/i18n/config.ts‎`](https://github.com/keepandroidopen/keepandroidopen.github.io/edit/main/src/i18n/config.ts‎) in a fork and update the languages list with the new language code.
 2. Create a new folder in [`src/content/pages/`](https://github.com/keepandroidopen/keepandroidopen.github.io/tree/main/src/content/pages/) and add the translation of the English `index.md` file. Translate the markdown headers and page content. The most important text is at the beginning; the lists of links do not all need to be translated.
 3. Commit changes to your fork and file a Pull Request with your translation.
 
