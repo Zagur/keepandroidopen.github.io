@@ -18,14 +18,14 @@ const { locale } = Astro.props;
 const byLabel = resolve({ en: 'by', ru: 'от' }, locale);
 ---
 
-<h4>{resolve(rightsGroups.heading, locale)}</h4>
+<h4 id="rightsGroups">{resolve(rightsGroups.heading, locale)}</h4>
 <ul>
   {rightsGroups.items.map((item: any) => (
     <li><a href={resolve(item.url, locale)} target="_blank">{resolve(item.text, locale)} ↗</a></li>
   ))}
 </ul>
 
-<h2>{resolve(references.heading, locale)}</h2>
+<h2 id="references">{resolve(references.heading, locale)}</h2>
 
 <h3>{resolve(overview.heading, locale)}</h3>
 <ul>
@@ -34,7 +34,7 @@ const byLabel = resolve({ en: 'by', ru: 'от' }, locale);
   ))}
 </ul>
 
-<h3>{resolve(editorials.heading, locale)}</h3>
+<h3 id="editorials">{resolve(editorials.heading, locale)}</h3>
 <ul>
   {editorials.items.map((item: any) => (
     <li>
@@ -46,14 +46,14 @@ const byLabel = resolve({ en: 'by', ru: 'от' }, locale);
   ))}
 </ul>
 
-<h3>{resolve(press.heading, locale)}</h3>
+<h3 id="press">{resolve(press.heading, locale)}</h3>
 <ul>
   {press.items.map((item: any) => (
     <li>&ldquo;{resolve(item.text, locale)}&rdquo; &mdash; <a href={item.url} target="_blank">{item.url} ↗</a></li>
   ))}
 </ul>
 
-<h3>{resolve(videos.heading, locale)}</h3>
+<h3 id="videos">{resolve(videos.heading, locale)}</h3>
 <ul>
   {videos.items.map((item: any) => (
     <li>
@@ -64,21 +64,21 @@ const byLabel = resolve({ en: 'by', ru: 'от' }, locale);
   ))}
 </ul>
 
-<h3>{resolve(discussions.heading, locale)}</h3>
+<h3 id="discussions">{resolve(discussions.heading, locale)}</h3>
 <ul>
   {discussions.items.map((item: any) => (
     <li><a href={item.url} target="_blank">{item.url} ↗</a></li>
   ))}
 </ul>
 
-<h3>{resolve(officialDocs.heading, locale)}</h3>
+<h3 id="docs">{resolve(officialDocs.heading, locale)}</h3>
 <ul>
   {officialDocs.items.map((item: any) => (
     <li>{resolve(item.text, locale)} &mdash; <a href={item.url} target="_blank">{item.url} ↗</a></li>
   ))}
 </ul>
 
-<h3>{resolve(miscellaneous.heading, locale)}</h3>
+<h3 id="misc">{resolve(miscellaneous.heading, locale)}</h3>
 <ul>
   {miscellaneous.items.map((item: any) => {
     const hasAuthor = item.author_text && item.author_url;
